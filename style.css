@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: sans-serif;
+color: rgb(6, 5, 5);
+}
+
+header{
+    text-align: center;
+
+}
+
+span{
+    background-color: rgb(77, 233, 121);
+    color: blanchedalmond;
+    padding: 5px;
+    margin: 10px 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+
+}
